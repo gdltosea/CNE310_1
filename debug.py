@@ -10,4 +10,4 @@ def lone_sum(a, b, c):
     else:
         return a+b+c
 
-
+print("lone_sum of 10, 10, 10 should be 0: " + str(lone_sum(10, 10, 10)))
